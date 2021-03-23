@@ -23,7 +23,7 @@ namespace Sklep
 
         public int CategoryId { get; set; }
 
-        public virtual Categories Category { get; set; }
-
+        public virtual Category Category { get; set; }
+        public string Director { get; internal set; }
     }
 }
