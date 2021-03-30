@@ -80,3 +80,5 @@ C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\Sklep\Sklep\obj\Debug\
 C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\Sklep\Sklep\obj\Debug\Sklep.csproj.CopyComplete
 C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\Sklep\Sklep\obj\Debug\Sklep.dll
 C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\Sklep\Sklep\obj\Debug\Sklep.pdb
+C:\Users\barak\source\repos\Karadras1\SklepInternetowyUKW\Sklep\Sklep\obj\Debug\Sklep.Migrations.addfieldLength.resources
+C:\Users\barak\source\repos\Karadras1\SklepInternetowyUKW\Sklep\Sklep\obj\Debug\Sklep.csproj.GenerateResource.cache
