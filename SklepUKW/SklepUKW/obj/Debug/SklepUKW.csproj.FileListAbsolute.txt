@@ -182,3 +182,13 @@ C:\Users\Piotr\source\repos\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\Skle
 C:\Users\Piotr\source\repos\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\SklepUKW.csproj.CopyComplete
 C:\Users\Piotr\source\repos\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\SklepUKW.dll
 C:\Users\Piotr\source\repos\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\SklepUKW.pdb
+C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\SklepUKW.csprojAssemblyReference.cache
+C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\SklepUKW.Migrations.InitialCreate.resources
+C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\SklepUKW.Migrations.deleteLength.resources
+C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\SklepUKW.Migrations.add_PosterName.resources
+C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\SklepUKW.Migrations.add_AddDate.resources
+C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\SklepUKW.Migrations.addLengthField.resources
+C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\SklepUKW.csproj.GenerateResource.cache
+C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\SklepUKW.csproj.CoreCompileInputs.cache
+C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\SklepUKW.dll
+C:\Users\barak\Source\Repos\Karadras1\SklepInternetowyUKW\SklepUKW\SklepUKW\obj\Debug\SklepUKW.pdb
