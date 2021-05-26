@@ -24,10 +24,9 @@ namespace SklepUKW.DAL
             Database.SetInitializer<FilmsContext>(new FilmsInitializer());
         }
 
-        public static FilmsContext Create ()
+        public static FilmsContext Create()
         {
             return new FilmsContext();
         }
-
     }
 }

@@ -9,16 +9,16 @@ using System.Web;
 
 namespace SklepUKW.Models
 {
-   
-        public class ApplicationUser : IdentityUser
+    public class ApplicationUser : IdentityUser
+    {
+        public UserData UserData { get; set; }
+
+        public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser> manager)
         {
-            public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser> manager)
-            {
-                // Element authenticationType musi pasować do elementu zdefiniowanego w elemencie CookieAuthenticationOptions.AuthenticationType
-                var userIdentity = await manager.CreateIdentityAsync(this, DefaultAuthenticationTypes.ApplicationCookie);
-                // Dodaj tutaj niestandardowe oświadczenia użytkownika
-                return userIdentity;
-            }
+            // Note the authenticationType must match the one defined in CookieAuthenticationOptions.AuthenticationType
+            var userIdentity = await manager.CreateIdentityAsync(this, DefaultAuthenticationTypes.ApplicationCookie);
+            // Add custom user claims here
+            return userIdentity;
         }
-    
+    }
 }
